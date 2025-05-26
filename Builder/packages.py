@@ -24,9 +24,9 @@ DEV_PACKAGES = [
     "deluge-gtk", "flameshot", "sqlitebrowser", "obsidian", "python-pip", "bpython", "ipython", "cloc",
 ]
 
-AUR_PACKAGES = [
-    "cava", "i3lock-color", "ptpython"
-]
+# AUR_PACKAGES = [
+#    "cava", "i3lock-color", "ptpython"
+# ]
 
 GNOME_OFFICIAL_TOOLS = [
     "evince", "gnome-calculator", "gnome-disk-utility", "gucharmap",
